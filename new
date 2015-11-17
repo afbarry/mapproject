@@ -1,0 +1,1303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.617982,
+          41.585806
+        ]
+      },
+      "properties": {
+        "date": "9/26/15",
+        "time": "10am",
+        "name": "Des Moines Farmers Market",
+        "place": "Hedberg and Boulton Law Office Patio",
+        "address": "100 Court Ave. Suite 425",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.97803,
+          43.30777
+        ]
+      },
+      "properties": {
+        "date": "10/4/15",
+        "time": "6:30pm",
+        "name": "Strafford County Democrats Fall Dinner",
+        "place": "",
+        "address": "78 Wakefield St.",
+        "city": "Rochester",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.140996,
+          36.16872
+        ]
+      },
+      "properties": {
+        "date": "10/5/15",
+        "time": "1pm",
+        "name": "Culinary Health Fund Clinic Tour",
+        "place": "Culinary Health Fund",
+        "address": "145 Las Vegas Blvd. South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.092317,
+          36.070777
+        ]
+      },
+      "properties": {
+        "date": "10/5/15",
+        "time": "5pm",
+        "name": "SEIU Town Hall",
+        "place": "",
+        "address": "3785 E. Sunset Rd.",
+        "city": "Las Vegas",
+        "state": "NV",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.147396,
+          36.1596
+        ]
+      },
+      "properties": {
+        "date": "10/6/15",
+        "time": "8am",
+        "name": "Hispanics in Politics Breakfast",
+        "place": "Donna Maria Tamales Restaurant",
+        "address": "910 Las Vegas Blvd. South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6091,
+          41.6005
+        ]
+      },
+      "properties": {
+        "date": "10/9/15",
+        "time": "6:30pm",
+        "name": "Polk County Democrats Fall Dinner",
+        "place": "Iowa State Fairgrounds",
+        "address": "",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.472209,
+          42.992315
+        ]
+      },
+      "properties": {
+        "date": "10/16/15",
+        "time": "8:05am",
+        "name": "NH Today",
+        "place": "WGIR Studios",
+        "address": "195 McGregor St.",
+        "city": "Manchester",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.507404,
+          42.98767
+        ]
+      },
+      "properties": {
+        "date": "10/16/15",
+        "time": "8:45am",
+        "name": "Forum on Affordable Housing",
+        "place": "New Hampshire Institute of Politics",
+        "address": "100 Saint Anselm Dr.",
+        "city": "Manchester",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5051,
+          43.21539
+        ]
+      },
+      "properties": {
+        "date": "10/16/15",
+        "time": "12pm",
+        "name": "Concord Coalition's \"Fiscal Fridays\" Series",
+        "place": "NH 1 Studios",
+        "address": "4 Church St.",
+        "city": "Concord",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5314,
+          43.22485
+        ]
+      },
+      "properties": {
+        "date": "10/16/15",
+        "time": "1pm",
+        "name": "Conversation with students at New Hampshire Technical Institute",
+        "place": "NHTI Concord Campus",
+        "address": "4 Institute Dr.",
+        "city": "Concord",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.28887,
+          43.70234
+        ]
+      },
+      "properties": {
+        "date": "10/16/15",
+        "time": "4:30pm",
+        "name": "#ActionsNotWords Town Hall",
+        "place": "Hopkins Center for the Arts",
+        "address": "2 E. Wheelock St.",
+        "city": "Hanover",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53511,
+          43.20481
+        ]
+      },
+      "properties": {
+        "date": "10/16/15",
+        "time": "7pm",
+        "name": "#ActionsNotWords Town Hall",
+        "place": "Plymouth Senior Center",
+        "address": "8 Depot St.",
+        "city": "Plymouth",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.470273,
+          43.528303
+        ]
+      },
+      "properties": {
+        "date": "10/17/15",
+        "time": "10am",
+        "name": "#ActionsNotWords Town Hall",
+        "place": "Wayfarer Coffee Roasters",
+        "address": "626 Main St.",
+        "city": "Laconia",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.451516,
+          43.041479
+        ]
+      },
+      "properties": {
+        "date": "10/17/15",
+        "time": "3:30pm",
+        "name": "Conversation on education with Prof. Dean Spiliotes",
+        "place": "Southern New Hampshire University",
+        "address": "2500 N. River Rd.",
+        "city": "Hooksett",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.466312,
+          42.763867
+        ]
+      },
+      "properties": {
+        "date": "10/17/15",
+        "time": "5pm",
+        "name": "#ActionsNotWords Town Hall",
+        "place": "Peddlers Daughter",
+        "address": "48 Main St.",
+        "city": "Nashua",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.037141,
+          32.936164
+        ]
+      },
+      "properties": {
+        "date": "10/22/15",
+        "time": "12pm",
+        "name": "Meeting with Local Faith & Community Leaders on Reducing Gun Violence",
+        "place": "Mt. Moriah Baptist Church",
+        "address": "7396 Rivers Ave.",
+        "city": "North Charleston",
+        "state": "SC",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.810991,
+          43.278278
+        ]
+      },
+      "properties": {
+        "date": "10/24/15",
+        "time": "10am",
+        "name": "Meet and Greet and Concert",
+        "place": "Cedar River Complex",
+        "address": "809 Sawyer Dr.",
+        "city": "Osage",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.622769,
+          41.592404
+        ]
+      },
+      "properties": {
+        "date": "10/24/15",
+        "time": "3:30pm",
+        "name": "Meet and Greet and Concert",
+        "place": "Plaza of the Veterans Memorial Auditorium",
+        "address": "833 5th Ave.",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.622713,
+          41.586728
+        ]
+      },
+      "properties": {
+        "date": "10/29/15",
+        "time": "1pm",
+        "name": "Des Moines Register Editorial Board Meeting",
+        "place": "Des Moines Register",
+        "address": "400 Locust St. Suite 500",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.930729,
+          41.253377
+        ]
+      },
+      "properties": {
+        "date": "10/29/15",
+        "time": "6pm",
+        "name": "Nebraska Democratic Party's Omaha Metro's Finest Dinner",
+        "place": "KANEKO",
+        "address": "1111 Jones St.",
+        "city": "Omaha",
+        "state": "NE",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.359713,
+          42.47466
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "9am",
+        "name": "Coffee and Donuts Reception",
+        "place": "Morningside College",
+        "address": "1501 Morningside Ave.",
+        "city": "Sioux City",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.383861,
+          42.496059
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "10am",
+        "name": "Sioux City Journal Editorial Board Meeting",
+        "place": "Sioux City Journal",
+        "address": "515 Pavonia St.",
+        "city": "Sioux City",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.354882,
+          42.017684
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "2:30pm",
+        "name": "Crawford County Meet and Greet",
+        "place": "UFCW Local 440",
+        "address": "46 N. Main St.",
+        "city": "Denison",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6091,
+          41.6005
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "7pm",
+        "name": "Iowa Safe Schools Spirit Awards",
+        "place": "State Historical Building of Iowa",
+        "address": "600 E. Locus St.",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.053275,
+          26.93533
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "5:30pm",
+        "name": "Charlotte Tailgate Rally",
+        "place": "Hurricane Charley's",
+        "address": "300 W. Retta Esplanade",
+        "city": "Punta Gorda",
+        "state": "FL",
+        "candidate": "Bush",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.70889,
+          41.569943
+        ]
+      },
+      "properties": {
+        "date": "10/31/15",
+        "time": "10:15am",
+        "name": "West Des Moines Meet and Greet",
+        "place": "Inspired Grounds Caf�",
+        "address": "117 5th St.",
+        "city": "West Des Moines",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.557511,
+          41.309052
+        ]
+      },
+      "properties": {
+        "date": "10/31/15",
+        "time": "10:45am",
+        "name": "Republican Party of Iowa's Growth and Oppurtunity Party",
+        "place": "Iowa State Fairgrounds",
+        "address": "3000 E. Grand Ave.",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "Bush",
+        "type": "Feature",
+        "multiple": "y"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.583726,
+          41.678464
+        ]
+      },
+      "properties": {
+        "date": "11/3/15",
+        "time": "3pm",
+        "name": "Fighting for Us Town Hall",
+        "place": "S.T. Morrison Park",
+        "address": "1513 7th St.",
+        "city": "Coralville",
+        "state": "IA",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.59789,
+          42.036205
+        ]
+      },
+      "properties": {
+        "date": "11/3/15",
+        "time": "6:45pm",
+        "name": "Fighting for Us Town Hall",
+        "place": "Grinnell College Harris Center",
+        "address": "1114 10th Ave.",
+        "city": "Grinnell",
+        "state": "IA",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.460498,
+          42.9918
+        ]
+      },
+      "properties": {
+        "date": "11/3/15",
+        "time": "11:15am",
+        "name": "#ActionsNotWords Town Hall",
+        "place": " Devine Millimet Law Firm ",
+        "address": "111 Amherst St.",
+        "city": "Manchester",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.933635,
+          43.137677
+        ]
+      },
+      "properties": {
+        "date": "11/3/15",
+        "time": "12:30pm",
+        "name": "#ActionsNotWords Town Hall",
+        "place": "Strafford Room - UNH",
+        "address": "105 Main St.",
+        "city": "Durham",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.277481,
+          42.927772
+        ]
+      },
+      "properties": {
+        "date": "11/3/15",
+        "time": "6:30pm",
+        "name": "#ActionsNotWords Town Hall",
+        "place": "Cheshire County Historical Society",
+        "address": "246 Main St.",
+        "city": "Keene",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53788,
+          43.2063
+        ]
+      },
+      "properties": {
+        "date": "11/4/15",
+        "time": "8:15am",
+        "name": "New Hampshire Filing Event",
+        "place": "Secretary of State's Office",
+        "address": "25 Capitol St.",
+        "city": "Concord",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.045219,
+          42.352422
+        ]
+      },
+      "properties": {
+        "date": "11/4/15",
+        "time": "5:30pm",
+        "name": "Civic Tech Pitch Competition and New Leadership Reception",
+        "place": "District Hall",
+        "address": "75 Northern Ave.",
+        "city": "Boston",
+        "state": "MA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8653,
+          43.2617
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "",
+        "name": "Tell It Like It Is Town Hall",
+        "place": "Kelley's Row Restaurant",
+        "address": "",
+        "city": "Somersworth",
+        "state": "NH",
+        "candidate": "Christie",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2895,
+          43.7023
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "",
+        "name": "Tell It Like It Is Town Hall",
+        "place": "Salt Hill Pub",
+        "address": "",
+        "city": "Hanover",
+        "state": "NH",
+        "candidate": "Christie",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0251,
+          34.9249
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "8pm",
+        "name": "First in the South Candidates Forum",
+        "place": "Winthrop University",
+        "address": "",
+        "city": "Rock Hill",
+        "state": "SC",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "y"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0251,
+          34.9249
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "8pm",
+        "name": "First in the South Candidates Forum",
+        "place": "Winthrop University",
+        "address": "",
+        "city": "Rock Hill",
+        "state": "SC",
+        "candidate": "Sanders",
+        "type": "Feature",
+        "multiple": "y"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0251,
+          34.9249
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "8pm",
+        "name": "First in the South Candidates Forum",
+        "place": "Winthrop University",
+        "address": "",
+        "city": "Rock Hill",
+        "state": "SC",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "y"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5226,
+          42.2287
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "",
+        "name": "Town Hall",
+        "place": "",
+        "address": "",
+        "city": "Hopkinton",
+        "state": "NH",
+        "candidate": "Kasich",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8737,
+          43.1979
+        ]
+      },
+      "properties": {
+        "date": "11/6/15",
+        "time": "",
+        "name": "Strafford County GOP's RED Rally",
+        "place": "Hellenic Center",
+        "address": "",
+        "city": "Dover",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6881,
+          43.757
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "",
+        "name": "Tell It Like It Is Town Hall",
+        "place": "Plymouth American Legion",
+        "address": "",
+        "city": "Plymouth",
+        "state": "NH",
+        "candidate": "Christie",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8852,
+          41.6117
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "",
+        "name": "Family Friendly Tailgate and Town Hall",
+        "place": "Saints Pub and Patio",
+        "address": "",
+        "city": "Waukee",
+        "state": "IA",
+        "candidate": "Jindal",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5159,
+          42.9465
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "",
+        "name": "House Party",
+        "place": "Home of Rich and Lori Ashooh",
+        "address": "",
+        "city": "Bedford",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3739,
+          42.8651
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "",
+        "name": "Town Hall",
+        "place": "Londonderry Middle School",
+        "address": "",
+        "city": "Londonderry",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8556,
+          33.4918
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "1:15pm",
+        "name": "South Carolina Legislative Black Caucus Town Hall",
+        "place": "Claflin University - Ministers' Hall",
+        "address": "",
+        "city": "Orangeburg",
+        "state": "SC",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0348,
+          34.0007
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "7pm",
+        "name": "SC Equality's \"An Evening With Hillary\" Dinner",
+        "place": "Columbia Marriott",
+        "address": "",
+        "city": "Columbia",
+        "state": "SC",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.100065,
+          40.810328
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "1pm",
+        "name": "Des Moines County Annual Fall Friend-Raiser",
+        "place": "Port of Burlington",
+        "address": "400 N. Front St.",
+        "city": "Burlington",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.194239,
+          41.185661
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "3pm",
+        "name": "Louisa County Meet and Greet",
+        "place": "Chavarria Family Home",
+        "address": "919 Mill St.",
+        "city": "Wapello",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.619995,
+          42.028686
+        ]
+      },
+      "properties": {
+        "date": "11/7/15",
+        "time": "6:30pm",
+        "name": "Linn County Democrats Fundraising Dinner",
+        "place": "Best Western Longbranch Hotel and Convention Center",
+        "address": "90 Twixt Town Rd. NE",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.537723,
+          43.207093
+        ]
+      },
+      "properties": {
+        "date": "11/9/15",
+        "time": "12:30pm",
+        "name": "New Hampshire Filing Event",
+        "place": "null",
+        "address": "107 N. Main St.",
+        "city": "Concord",
+        "state": "NH",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.456341,
+          42.70883
+        ]
+      },
+      "properties": {
+        "date": "11/9/15",
+        "time": "3:45pm",
+        "name": "Environmentalists for Hillary Event",
+        "place": "Balsam Room - Radisson",
+        "address": "11 Tara Blvd.",
+        "city": "Nashua",
+        "state": "NH",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.334676,
+          42.788089
+        ]
+      },
+      "properties": {
+        "date": "11/9/15",
+        "time": "6:15pm",
+        "name": "Windham Town Hall Meeting",
+        "place": "Windham High School",
+        "address": "64 London Bridge Rd.",
+        "city": "Windham",
+        "state": "NH",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.324656,
+          42.879806
+        ]
+      },
+      "properties": {
+        "date": "11/10/15",
+        "time": "12pm",
+        "name": "Veterans Roundtable with the Truman Project",
+        "place": "Derry VFW",
+        "address": "18 Railroad Ave.",
+        "city": "Derry",
+        "state": "NH",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.289547,
+          43.706141
+        ]
+      },
+      "properties": {
+        "date": "11/10/15",
+        "time": "3:45pm",
+        "name": "Center for Global Business and Government Speaker Series",
+        "place": "Dartmouth College",
+        "address": "10 N. Main St. ",
+        "city": "Hanover",
+        "state": "NH",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.656232,
+          41.601928
+        ]
+      },
+      "properties": {
+        "date": "11/14/15",
+        "time": "6:30pm",
+        "name": "Debate Watch Party",
+        "place": "Drake University",
+        "address": "2875 University Ave.",
+        "city": "Des Moines",
+        "state": "IA",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.649344,
+          42.011872
+        ]
+      },
+      "properties": {
+        "date": "11/15/15",
+        "time": "1:30pm",
+        "name": "Central Iowa Democrats Fall BBQ",
+        "place": "Hansen Agriculture Student Learning Center",
+        "address": "2508 Mortensen Rd.",
+        "city": "Ames",
+        "state": "IA",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387541,
+          33.762111
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "1pm",
+        "name": "16th Annual Creating Opportunity Conference",
+        "place": "Hyatt Regency Atlanta",
+        "address": "265 Peachtree St. NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.409515,
+          33.749331
+        ]
+      },
+      "properties": {
+        "date": "10/30/15",
+        "time": "2:30pm",
+        "name": "African Americans for Hillary Grassroots Event",
+        "place": "Clark Atlanta University",
+        "address": "650 Fair St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "candidate": "Clinton",
+        "type": "Feature",
+        "multiple": "n"
+      }
+    }
+  ]
+}
