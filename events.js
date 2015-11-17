@@ -1,4 +1,4 @@
-var events = {
+var eventData = {
   "type": "FeatureCollection",
   "features": [
     {
