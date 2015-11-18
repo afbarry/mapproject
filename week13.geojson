@@ -1,0 +1,2282 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "10:30am",
+        "name": "National Security Address",
+        "place": "92nd St. Y",
+        "address": "200 Hudson St. New York NY 10013",
+        "state": "NY",
+        "candidate": "Clinton",
+        "marker-color": "#660066",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007656,
+          40.72292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/29/15",
+        "time": "5:30pm",
+        "name": "New Hampshire Democratic Party JJ Dinner",
+        "place": "Manchester Radisson Ballroom and Armory",
+        "address": "700 Elm St. Manchester NH 03101",
+        "state": "NH",
+        "candidate": "Clinton",
+        "marker-color": "#660066",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46418,
+          42.988357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/15/15",
+        "time": "1:30pm",
+        "name": "Central Iowa Democrats Fall BBQ",
+        "place": "Hansen Agriculture Student Learning Center",
+        "address": "2508 Mortensen Rd. Ames IA 50014",
+        "state": "IA",
+        "candidate": "Clinton",
+        "marker-color": "#660066",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.649344,
+          42.011872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/29/15",
+        "time": "5:30pm",
+        "name": "New Hampshire Democratic Party JJ Dinner",
+        "place": "Manchester Radisson Ballroom and Armory",
+        "address": "700 Elm St. Manchester NH 03101",
+        "state": "NH",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46418,
+          42.988357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/15/15",
+        "time": "11:30am",
+        "name": "Des Moines Volunteer Appreciation Event",
+        "place": "Des Moines Field Office",
+        "address": "405 SW 8th St. Des Moines IA 50309",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.624891,
+          41.579435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/15/15",
+        "time": "1:30pm",
+        "name": "Central Iowa Democrats Fall BBQ",
+        "place": "Hansen Agriculture Student Learning Center",
+        "address": "2508 Mortensen Rd. Ames IA 50014",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.649344,
+          42.011872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/15/15",
+        "time": "5:00pm",
+        "name": "UNI Actions Not Words Town Hall",
+        "place": "Octopus College Hill",
+        "address": "2205 College St. Cedar Falls IA 50613",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.456178,
+          42.517536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/15/15",
+        "time": "6:30pm",
+        "name": "Fundraiser for State Rep. Bruce Bearinger",
+        "place": "Luigi's",
+        "address": "1020 S. Frederick Ave. Oelwein IA 50662",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.913998,
+          42.662866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "9:00am",
+        "name": "Wartburg College Actions Not Words Town Hall",
+        "place": "Whitehouse Business Center 214",
+        "address": "100 Wartburg Blvd. Waverly IA 50677",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4755,
+          42.7258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "10:30am",
+        "name": "Chickasaw County Actions Not Words Town Hall",
+        "place": "Community Center",
+        "address": "112 E. Spring St. New Hampton IA 50659",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31396,
+          43.058405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "12:15pm",
+        "name": "Winneshiek County Actions Not Words Town Hall",
+        "place": "Java John's Coffee House",
+        "address": "400 W. Water St. Decorah IA 52101",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.789815,
+          43.304437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "4:00pm",
+        "name": "Allamakee County Actions Not Words Town Hall",
+        "place": "Farmers and Merchants Bank Community Room",
+        "address": "201 W. Main St. Waukon IA 52172",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.479213,
+          43.269761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "6:00pm",
+        "name": "Clayton County Actions Not Words Town Hall",
+        "place": "Johnson's Restaurant",
+        "address": "916 High St. Elkader IA 52043",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.396639,
+          42.862988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "9:00am",
+        "name": "Loras College Actions Not Words Town Hall",
+        "place": "Lora's College Alumni Campus Center ",
+        "address": "1450 Alta Vista St. Dubuque IA 52001",
+        "state": "IA",
+        "candidate": "O'Malley",
+        "marker-color": "#0099cc",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.681137,
+          42.50312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/29/15",
+        "time": "5:30pm",
+        "name": "New Hampshire Democratic Party JJ Dinner",
+        "place": "Manchester Radisson Ballroom and Armory",
+        "address": "700 Elm St. Manchester NH 03101",
+        "state": "NH",
+        "candidate": "Sanders",
+        "marker-color": "#6600FF",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46418,
+          42.988357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "7:00pm",
+        "name": "Cleveland Rally",
+        "place": "Wolstein Center at Cleveland State University",
+        "address": "2000 Prospect Ave Cleveland OH 44115",
+        "state": "OH",
+        "candidate": "Sanders",
+        "marker-color": "#6600FF",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.678145,
+          41.499502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/15/15",
+        "time": "3:30pm",
+        "name": "Family Caregiver Roundtable",
+        "place": "Central Presbyterian Church East Parlor",
+        "address": "3829 Grand Ave. Des Moines IA 50312",
+        "state": "IA",
+        "candidate": "Sanders",
+        "marker-color": "#6600FF",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.669398,
+          41.585683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "1:30pm",
+        "name": "Regent University Executive Leadership Series Presidential Candidate Forum",
+        "place": "Regent University Communication and Performing Ars Center",
+        "address": "1000 Regent University Dr. Virginia Beach VA 23464",
+        "state": "VA",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.191928,
+          36.805586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "4:15pm",
+        "name": "Massachusetts Fiscal Alliance Reception",
+        "place": "Vanderbilt Kitchen and Bar",
+        "address": "105 Water St. Boston MA 02109",
+        "state": "MA",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054728,
+          42.357964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "12:00pm",
+        "name": "National Security Address",
+        "place": "National Press Club Building",
+        "address": "529 14th St. NW Washington DC 20045",
+        "state": "DC",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031233,
+          38.896956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "12:30pm",
+        "name": "Town Hall",
+        "place": "Hollis Pharmacy",
+        "address": "6 Ash St. Hollis NH 03049",
+        "state": "NH",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.590219,
+          42.743543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "12:30pm",
+        "name": "Town Hall",
+        "place": "Beacon Drive-In",
+        "address": "255 John B White Sr Blvd. Spartanburg SC 29306",
+        "state": "SC",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.943259,
+          34.940345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "5:00pm",
+        "name": "Town Hall",
+        "place": "Vapor Apparel",
+        "address": "2120 Noisette Blvd. #109 North Charleston SC 29406",
+        "state": "SC",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.969835,
+          32.864016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "12:00pm",
+        "name": "Town Hall",
+        "place": "White Mountains Community College",
+        "address": "2020 Riverside Dr. Berlin NH 03570",
+        "state": "NH",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15856,
+          44.503777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "3:30pm",
+        "name": "Town Hall",
+        "place": "Wakefield Town Hall",
+        "address": "2 High St. Sanbornville NH 03872",
+        "state": "NH",
+        "candidate": "Kasich",
+        "marker-color": "#666699",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03039,
+          43.553832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "2:30pm",
+        "name": "Tell It Like It Is Town Hall",
+        "place": "Jonathon's Lounge at Park Place Lanes Bowling Alley",
+        "address": "16 Rockinham Rd. Windham NH 03087",
+        "state": "NH",
+        "candidate": "Christie",
+        "marker-color": "#1F78B4",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3042,
+          42.8006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "9:30am",
+        "name": "Tell It Like It Is Town Hall",
+        "place": "Stratham Municipal Center",
+        "address": "10 Bunker Hill Ave. Stratham NH 03885",
+        "state": "NH",
+        "candidate": "Christie",
+        "marker-color": "#1F78B4",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.913697,
+          43.010987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/23/15",
+        "time": "7:00pm",
+        "name": "Rally",
+        "place": "Greater Columbus Convention Center",
+        "address": "400 N High St. Columbus OH 43215",
+        "state": "OH",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.001829,
+          39.972192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "4:00pm",
+        "name": "Make America Great Again Rally and Town Hall",
+        "place": "DMACC Newton Campus",
+        "address": "600 North 2nd Ave West Newton IA 50208",
+        "state": "IA",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.060164,
+          41.700432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "12:00pm",
+        "name": "Rally",
+        "place": "Birmingham-Jefferson Convention Complex",
+        "address": "2100 Richard Arrington Jr Blvd. N Birmingham AL 35203",
+        "state": "AL",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81274,
+          33.523845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/24/15",
+        "time": "6:00pm",
+        "name": "Rally",
+        "place": "Broadway at the Beach",
+        "address": "1325 Celebrity Circle Myrtle Beach SC 29577",
+        "state": "SC",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.882222,
+          33.719151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "12:00pm",
+        "name": "Commander in Chief Presidential Forum ",
+        "place": "Wofford College Ben Johnson Arena",
+        "address": "429 North Church St. Spartanburg SC 29203",
+        "state": "SC",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.940022,
+          34.959496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "7:00pm",
+        "name": "Rally",
+        "place": "DCU Center",
+        "address": "50 Foster St. Worcester MA 01608",
+        "state": "MA",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.798937,
+          42.265118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "7:00pm",
+        "name": "Rally",
+        "place": "Knoxville Convention Center",
+        "address": "701 Henley St. Knoxville TN 37902",
+        "state": "TN",
+        "candidate": "Trump",
+        "marker-color": "#FF7F00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.922508,
+          35.961132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "6:00pm",
+        "name": "House Party",
+        "place": "The Home of Phil Taub",
+        "address": "34 Mill Stone Terrace Bedford NH 03110",
+        "state": "NH",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.581973,
+          42.955826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "10:00am",
+        "name": "Business Tour and Employee Meet and Greet",
+        "place": "Dynamic Network Services Incorporated",
+        "address": "150 Dow St. Manchester NH 03101",
+        "state": "NH",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.467342,
+          42.99733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "12:00pm",
+        "name": "NH Primary Filing",
+        "place": "New Hampshire Secretary of State's Office",
+        "address": "25 Capitol St. Concord NH 03301",
+        "state": "NH",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53788,
+          43.2063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "6:30pm",
+        "name": "Town Hall",
+        "place": "Londonderry Senior Center",
+        "address": "535 Mammoth Rd. Londonderry NH 03053",
+        "state": "NH",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.404785,
+          42.919494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "12:00pm",
+        "name": "Plan to Rebuild America's Military",
+        "place": "The Citadel - Mark Clark Hall",
+        "address": "171 Moultrie St. Charleston SC 29409",
+        "state": "SC",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.957749,
+          32.796619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "11:30am",
+        "name": "Leadership Columbia Alumni Association (LCAA) Leadership Luncheon",
+        "place": "The Palmetto Club",
+        "address": "1231 Sumter St. Columbia SC 29201",
+        "state": "SC",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03272,
+          34.002498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "1:45pm",
+        "name": "Meet and Greet",
+        "place": "Wholly Smokin' BBQ",
+        "address": "150 South Dargan St. Florence SC 29506",
+        "state": "SC",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.766028,
+          34.196332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "5:00pm",
+        "name": "Town Hall",
+        "place": "Coastal Carolina University - The Wall Building",
+        "address": "100 Chanticleer Dr. East Conway SC 29528",
+        "state": "SC",
+        "candidate": "Bush",
+        "marker-color": "#FF3399",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.012981,
+          33.798501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "4:00pm",
+        "name": "Employee Town Hall Meeting",
+        "place": "McLane Middleton Law Firm",
+        "address": "900 Elm St. Manchester NH 03101",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.463058,
+          42.990799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "5:30pm",
+        "name": "Meet and Greet",
+        "place": "Northside Grille",
+        "address": "323 Derry Rd. Hudson NH 03051",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.414568,
+          42.817463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "6:30pm",
+        "name": "Town Hall",
+        "place": "American Legion Hudson - Post 48",
+        "address": "2 Fulton St. Hudson NH 03051",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.438942,
+          42.762372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "9:00am",
+        "name": "Meet and Greet with Vietnamese-American Community",
+        "place": "Vietnamese Temple",
+        "address": "684 Auburn St. Manchester NH 03103",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44603,
+          42.985047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "11:00am",
+        "name": "House Party Hosted by John and Sarah O'Connor",
+        "place": "Home of the O'Connor's",
+        "address": "35 Wilmot Center Rd. Wilmot NH 03287",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.935042,
+          43.422916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "1:45pm",
+        "name": "Town Hall",
+        "place": "Franklin Public Library",
+        "address": "310 Central St. Franklin NH 03235",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.233722,
+          42.043841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "3:45pm",
+        "name": "Town Hall",
+        "place": "David R. Cawley Middle School",
+        "address": "89 Whitehall Rd. Hooksett NH 03106",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.420724,
+          43.052719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "6:30pm",
+        "name": "Town Hall",
+        "place": "SERESC Conference Center",
+        "address": "29 Commerce Dr. Bedford NH 03110",
+        "state": "NH",
+        "candidate": "Graham",
+        "marker-color": "#FFFF33",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.465411,
+          42.92734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "8:00am",
+        "name": "Meet and Greet",
+        "place": "Chelle's Bar and Grill",
+        "address": "309 Jefferson St. Dysart IA 52224",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.305289,
+          42.17093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "10:00am",
+        "name": "Coffee and Conversation",
+        "place": "The Sweet Spot",
+        "address": "108 1st St. W Independence IA 50644",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.417123,
+          41.922302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "12:00pm",
+        "name": "Town Hall",
+        "place": "Pizza Ranch",
+        "address": "1100 West Main St. Manchester IA 52057",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.472609,
+          42.483312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "2:30pm",
+        "name": "Iowa State Association of Counties Presidential Forum",
+        "place": "Cedar Rapids Convention Complex - Doubletree Hotel",
+        "address": "350 1st Ave NE Cedar Rapids IA 52401",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.667975,
+          41.979881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "5:15pm",
+        "name": "Pints and Politics",
+        "place": "Backpocket Brewery",
+        "address": "903 Quarry Rd. Coralville IA 52241",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.559684,
+          41.682456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "7:30pm",
+        "name": "House Party",
+        "place": "Private Home",
+        "address": "10 Mary Court Iowa City IA 52245",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.478043,
+          41.660046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "8:00am",
+        "name": "Coffee and Conversation",
+        "place": "Elly's Tea and Coffee",
+        "address": "208 West 2nd St. #8 Muscatine IA 52761",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.046873,
+          41.420492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "10:00am",
+        "name": "Coffee and Conversation",
+        "place": "Blondie's Coffee Outback",
+        "address": "810 6th Ave. Suite A DeWitt IA 52742",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.538964,
+          41.823366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "12:00pm",
+        "name": "Meet and Greet",
+        "place": "Ditto's Grill",
+        "address": "514 East Front St. Stanwood IA 52337",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.145637,
+          41.888912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "4:30pm",
+        "name": "Mock Caucus at Cedar Rapids Washington High School",
+        "place": "CR Washington High School",
+        "address": "2205 Forest Dr. SE Cedar Rapids IA 52403",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.630888,
+          41.996968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "6:00pm",
+        "name": "Blackhawk County Central Committee Meeting",
+        "place": "Waterloo Center for the Arts",
+        "address": "225 Commercial St. Waterloo IA 50701",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.342133,
+          42.498359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "8:00am",
+        "name": "Meet and Greet",
+        "place": "Mineral City Mill and Grill",
+        "address": "2621 5th Ave S Fort Dodge IA 50501",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.161163,
+          42.501178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "11:30am",
+        "name": "Barn Lunch",
+        "place": "Rustic Rose Barn",
+        "address": "3275 400th St. Roland IA 50236",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.527185,
+          42.210036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "2:30pm",
+        "name": "John Wayne Museum Tour",
+        "place": "John Wayne Museum",
+        "address": "205 South John Wayne Dr. Winterset IA 50273",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.013397,
+          41.341166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "3:15pm",
+        "name": "Town Hall",
+        "place": "Northside Caf�",
+        "address": "61 East Jefferson St. Winterset IA 50273",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.535115,
+          41.662485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "5:00pm",
+        "name": "FAMiLY Leader Summit",
+        "place": "Community Choice Credit Union Convention Center",
+        "address": "833 5th Ave. Des Moines IA 50309",
+        "state": "IA",
+        "candidate": "Santorum",
+        "marker-color": "#FDBF6F",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.622769,
+          41.592404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "8:00am",
+        "name": "Huckabee Huddle",
+        "place": "Southfork Motel and Grill",
+        "address": "907 S Washington St. Bloomfield IA 52537",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.412606,
+          40.743914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "11:30am",
+        "name": "Tour and Town Hall",
+        "place": "C and C Machining",
+        "address": "22233 230th Ave. Centerville IA 52544",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.848386,
+          40.717656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "2:00pm",
+        "name": "Huckabee Huddle",
+        "place": "Albia Brewing Company",
+        "address": "11 Benton Ave E Albia IA 52531",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.808244,
+          41.02711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "8:00am",
+        "name": "Huckabee Huddle",
+        "place": "Miller's Landing",
+        "address": "600 13th St. S Humboldt IA 50548",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.226988,
+          42.715065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "11:30am",
+        "name": "Huckabee Huddle",
+        "place": "Pizza Ranch",
+        "address": "102 South Main St. Clarion IA 50525",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.732854,
+          42.731659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "2:00pm",
+        "name": "Huckabee Huddle",
+        "place": "Maid-Rite",
+        "address": "409 Closz Dr. Webster City IA 50595",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.815513,
+          42.445422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "5:00pm",
+        "name": "FAMiLY Leader Summit",
+        "place": "Community Choice Credit Union Convention Center",
+        "address": "833 5th Ave. Des Moines IA 50309",
+        "state": "IA",
+        "candidate": "Huckabee",
+        "marker-color": "#FF5050",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.622769,
+          41.592404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "9:30am",
+        "name": "Prichard Prep School Tour",
+        "place": "Prichard Preparatory School",
+        "address": "743 Mt. Sinai Ave. Mobile AL 36612",
+        "state": "AL",
+        "candidate": "Carson",
+        "marker-color": "#A6CEE3",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.114964,
+          30.755437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "10:15am",
+        "name": "St. Paul's School Tour and Press Avail",
+        "place": "St. Paul's Episcopal School",
+        "address": "161 Dogwood Ln. Mobile AL 36608",
+        "state": "AL",
+        "candidate": "Carson",
+        "marker-color": "#A6CEE3",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.135098,
+          30.696611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "4:00pm",
+        "name": "Political Rally",
+        "place": "University of South Alabama Mitchell Center",
+        "address": "5950 Old Shell Rd. Mobile AL 36608",
+        "state": "AL",
+        "candidate": "Carson",
+        "marker-color": "#A6CEE3",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.180055,
+          30.69001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "11:30am",
+        "name": "NH Primary Filing",
+        "place": "New Hampshire State House",
+        "address": "107 N Main St. Concord NH 03303",
+        "state": "NH",
+        "candidate": "Carson",
+        "marker-color": "#A6CEE3",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.604016,
+          43.287664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "3:40pm",
+        "name": "Airport Rally",
+        "place": "Northwest Iowa Regional Airport ",
+        "address": "1965 330th St. Spencer IA 51301",
+        "state": "IA",
+        "candidate": "Carson",
+        "marker-color": "#A6CEE3",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.221455,
+          43.169172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "7:00pm",
+        "name": "Presidential Family Forum",
+        "place": "Iowa Events Center",
+        "address": "730 Third St. Des Moines IA 50309",
+        "state": "IA",
+        "candidate": "Carson",
+        "marker-color": "#A6CEE3",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.62149,
+          41.590818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "1:15pm",
+        "name": "Retail Stop",
+        "place": "Biederman's Deli",
+        "address": "28 Main St. Plymouth NH 03264",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "marker-color": "#000099",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.168214,
+          43.43657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/16/15",
+        "time": "6:00pm",
+        "name": "Plymouth State University Presidential Candidate Lecture Series",
+        "place": "Hartman Union Building - Hage Room",
+        "address": "17 High St. Plymouth NH 03264",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "marker-color": "#000099",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.690826,
+          43.760682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "12:00pm",
+        "name": "New Hampshire Federation of Women's Annual Meeting and Lunch",
+        "place": "Upham Walker House",
+        "address": "18 Park St. Concord NH 03301",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "marker-color": "#000099",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53822,
+          43.20735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/17/15",
+        "time": "6:45pm",
+        "name": "House Party hosted by Bob and Kathleen Molway",
+        "place": "Molway Residence",
+        "address": "15 Peterson Circle Concord NH 03303",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "marker-color": "#000099",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57364,
+          43.25638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "10:00am",
+        "name": "Meeting with Veterans",
+        "place": "New England College Simon Center",
+        "address": "98 Bridge St. Henniker NH 03242",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "marker-color": "#000099",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.822967,
+          43.176921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/18/15",
+        "time": "2:40pm",
+        "name": "Town Hall hosted by Keene State College and Cheshire County Republican Committee",
+        "place": "Keene State College Student Union",
+        "address": "229 Main St. Keene NH 03431",
+        "state": "NH",
+        "candidate": "Fiorina",
+        "marker-color": "#000099",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.277519,
+          42.928043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "10:00am",
+        "name": "Meet and Greet",
+        "place": "Smokey Row Coffee House",
+        "address": "109 S Market St. Oskaloosa IA 52577",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.645434,
+          41.294956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/24/15",
+        "time": "3:00pm",
+        "name": "Town Hall",
+        "place": "Brownells Inc.",
+        "address": "3006 Brownells Parkway Grinnell IA 50112",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7224,
+          41.743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/23/15",
+        "time": "12:00pm",
+        "name": "Town Hall",
+        "place": "Holiday Inn",
+        "address": "2202 River Rd. Council Bluffs IA 51501",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.910499,
+          41.241466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/23/15",
+        "time": "8:30am",
+        "name": "Town Hall",
+        "place": "Greasewood Flats Ranch",
+        "address": "1607 Griffith Rd. Carroll IA 51401",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.388573,
+          42.369925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "3:45pm",
+        "name": "Town Hall",
+        "place": "The Hotel at Kirkwood Center",
+        "address": "7725 Kirkwood Blvd. SW Cedar Rapids IA 52404",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.654828,
+          41.903734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "1:00pm",
+        "name": "Town Hall",
+        "place": "Marshalltown Community College - DeJardin Hall",
+        "address": "3702 South Center St. Marshalltown IA 50158",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.905365,
+          41.997919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "6:45pm",
+        "name": "West Des Moines Rally",
+        "place": "NOAH's Event Venue",
+        "address": "1805 90th St. West Des Moines IA 50266",
+        "state": "IA",
+        "candidate": "Rubio",
+        "marker-color": "#FFCC00",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.829235,
+          41.598551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "6:30pm",
+        "name": "FAMiLY Leader Summit",
+        "place": "Community Choice Credit Union Convention Center",
+        "address": "833 5th Ave. Des Moines IA 50309",
+        "state": "IA",
+        "candidate": "Paul",
+        "marker-color": "#336600",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.622769,
+          41.592404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "8:30am",
+        "name": "Davenport Voters Focus Group",
+        "place": "Victory Enterprises",
+        "address": "5200 30th St. SW Davenport IA 52802",
+        "state": "IA",
+        "candidate": "Paul",
+        "marker-color": "#336600",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.648931,
+          41.489122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "10:30am",
+        "name": "Stand with Rand Tailgate",
+        "place": "University of Iowa - Kinnick Stadium Lot #43",
+        "address": "825 Evashevski Dr. Iowa City IA 52240",
+        "state": "IA",
+        "candidate": "Paul",
+        "marker-color": "#336600",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.552376,
+          41.657343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/19/15",
+        "time": "1:00pm",
+        "name": "Students for Rand Rally",
+        "place": "George Washington University - Marvin Center",
+        "address": "800 21st St. NW Washington DC 20052",
+        "state": "DC",
+        "candidate": "Paul",
+        "marker-color": "#336600",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047149,
+          38.900024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "2:00pm",
+        "name": "Retail Stop",
+        "place": "Tres Amigos Restaurant",
+        "address": "201 Plaza Ln. Osage IA 50461",
+        "state": "IA",
+        "candidate": "Cruz",
+        "marker-color": "#33A02C",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7936,
+          43.2844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/21/15",
+        "time": "12:30pm",
+        "name": "Retail Stop",
+        "place": "GG's Place Restaurant",
+        "address": "15 South Hawkeye Ave. Nora Springs IA 50458",
+        "state": "IA",
+        "candidate": "Cruz",
+        "marker-color": "#33A02C",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.005508,
+          43.141703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "11/20/15",
+        "time": "10:00am",
+        "name": "Town Hall",
+        "place": "Briar Cliff University",
+        "address": "3303 Rebecca St. Sioux City IA 51104",
+        "state": "IA",
+        "candidate": "Cruz",
+        "marker-color": "#33A02C",
+        "marker-size": "",
+        "type": "Feature",
+        "multiple": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.426752,
+          42.524265
+        ]
+      }
+    }
+  ]
+}
